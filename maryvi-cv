@@ -3,14 +3,14 @@
 #
 
 template: "online-cv"
-skin: "berry"
+skin: "yellow"
 
 # Personal Information
 basic_info:
 
     # Your full name
-    first_name: Maryvi
-    last_name: Camacho
+    first_name: Guillermo
+    last_name: Longueira
     # Define yourself in 4-5 words
     motto: I like create new things. 
     
@@ -46,10 +46,10 @@ basic_info:
 
     # languages you speak, levels inculde: Native, Professional
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     
